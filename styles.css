@@ -12,7 +12,7 @@ body {
 
 /* Header Styles */
 header {
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('data-science-header.jpg') center/cover;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('Data/data-science-header.jpg') center/cover;
     color: white;
     text-align: center;
     padding: 100px 20px;
@@ -31,7 +31,7 @@ header p {
 
 /* Navigation */
 nav {
-    background: #333;
+    background: #202327;
     padding: 20px;
     position: sticky;
     top: 0;
@@ -67,7 +67,7 @@ section h2 {
     text-align: center;
     margin-bottom: 40px;
     font-size: 2.5em;
-    color: #333;
+    color: #202327;
 }
 
 /* About Section */
@@ -161,7 +161,7 @@ section h2 {
 }
 
 button {
-    background: #333;
+    background: #202327;
     color: white;
     padding: 12px 30px;
     border: none;
@@ -171,12 +171,12 @@ button {
 }
 
 button:hover {
-    background: #555;
+    background: #202327;
 }
 
 /* Footer */
 footer {
-    background: #333;
+    background: #202327;
     color: white;
     text-align: center;
     padding: 20px;
